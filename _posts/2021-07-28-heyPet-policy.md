@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 헤이펫 개인정보 처리방침
-tags: [헤이펫]
+title: 동물회관 개인정보 처리방침
+tags: [동물회관]
 ---
 
 # 개인정보 보호법 및 공공데이터 출처 표기
@@ -27,7 +27,7 @@ tags: [헤이펫]
     ② 각각의 개인정보 처리 및 보유 기간은 다음과 같습니다.  
         1) 제화 또는 서비스 제공   
         제화 또는 서비스 제공과 관련한 개인정보는 수집, 이용에 관한 동의일로부터 위 이용목적을 위하여 보유, 이용됩니다.  
-        - 보유근거 : 헤이펫을 사용하기 위한 필수 정보
+        - 보유근거 : 동물회관을 사용하기 위한 필수 정보
 
 4. 정보주체와 법정대리인의 권리·의무 및 그 행사방법   
     이용자는 개인정보주체로써 다음과 같은 권리를 행사할 수 있습니다.  
@@ -83,7 +83,7 @@ tags: [헤이펫]
     2. 사용된 데이터 국토교통부(Geocoder API 2.0 - MapPunchOut 좌표를 주소로 변환)는 vworld.kr의 License를 따르고 있습니다. 
     3. 사용된 데이터 국토교통부(Geocoder API 2.0 - 동물보호센터 주소를 좌표로 변환)는 vworld.kr의 License를 따르고 있습니다. 
     4. 사용된 데이터 동물보호센터(농림축산식품부 농림축산검역본부_동물보호센터 정보)는 www.data.go.kr의 License를 따르고 있습니다. 
-    5. 사용된 데이터 반려견 놀이터(https://www.google.com/maps/d/viewer?mid=1VJtUStWy2kfnApZRgvc546tFZ5dPHzF4&ll=38.7718179669495%2C126.14055019374999&z=8) 지도는 정부 지자체 웹사이트 및 기타 검색을 바탕으로 헤이펫에서 자체 제작한 것으로 opendatacommons.org의 Open Data Commons Attribution License 따르고 있습니다. 
+    5. 사용된 데이터 반려견 놀이터(https://www.google.com/maps/d/viewer?mid=1VJtUStWy2kfnApZRgvc546tFZ5dPHzF4&ll=38.7718179669495%2C126.14055019374999&z=8) 지도는 정부 지자체 웹사이트 및 기타 검색을 바탕으로 동물회관에서 자체 제작한 것으로 opendatacommons.org의 Open Data Commons Attribution License 따르고 있습니다. 
     6. 사용된 데이터 한국도로공사_휴게소 반려동물 편의시설(놀이터) 현황은 www.data.go.kr의 License를 따르고 있습니다. 
     7. 사용된 데이터 세종소방본부(반려동물 관련 응급처치 정보)는 sejong.go.kr의 License를 따르고 있습니다.
     8. 사용된 데이터 법제처 찾기쉬운 생활법령 정보(반려동물 관련 기타 정보)는 easylaw.go.kr의 License를 따르고 있습니다. 
