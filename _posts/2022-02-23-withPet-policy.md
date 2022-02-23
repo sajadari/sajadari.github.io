@@ -83,3 +83,5 @@ tags: [댕댕관광]
     2. 사용된 ICON 출처 
         <a href="https://www.flaticon.com/kr/free-icons/" title="발자국 아이콘">발자국 아이콘  제작자: Freepik - Flaticon</a>
         <a href="https://www.flaticon.com/free-icons/page-not-found" title="page not found icons">Page not found icons created by Pixel perfect - Flaticon</a>
+        <a href="https://www.flaticon.com/kr/free-icons/" title="발 아이콘">발 아이콘  제작자: Vitaly Gorbachev - Flaticon</a>
+        <a href="https://www.flaticon.com/kr/free-icons/" title="개 아이콘">개 아이콘  제작자: Freepik - Flaticon</a>
