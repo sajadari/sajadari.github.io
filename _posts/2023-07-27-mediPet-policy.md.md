@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (메디펫) 개인정보 처리방침
+title: 메디펫 개인정보 처리방침
 tags: [메디펫]
 ---
 
